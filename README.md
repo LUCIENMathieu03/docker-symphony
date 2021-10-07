@@ -9,7 +9,7 @@ This is a docker project, the goal is to create a simple CRUD with symfony using
 - symphony
 - SQL 
 
-(you should use mariadb if you have a M1 apple silicon processor beacause MySQL does not work on it)
+(you should use mariadb if you have a M1 apple silicon processor beacause MySQL does not work with it)
 ## Requirements
 - docker
 
